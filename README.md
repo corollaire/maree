@@ -1,4 +1,4 @@
 # maree :
 Calcul de marées.
 # Outils :
-Python+qt
+Python+qt+avoir
